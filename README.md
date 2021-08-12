@@ -17,5 +17,7 @@
 -   H2 Database
 -   Spring Boot DevTools
 
+<a href="https://emoji.gg/emoji/java"><img src="https://emoji.gg/assets/emoji/java.png" width="64px" height="64px" alt="java"></a>
+
 
 
